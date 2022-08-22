@@ -1,4 +1,5 @@
 # lackawanna_luzerne_nonprofits
+<<<<<<< HEAD
 Geocoding lackawanna and :uzerne 
 
 Geolocating lackawanna and Luzerne county's nonprofit organizations.
@@ -13,3 +14,9 @@ Level1 indicates if the nonprofit is a founding or public charity,
 filer indicates if the nonprofit has filed tax documents in the past 2 years. 
 zfiler indicates if they filed zero revenue 
 nteefinal shows the NTEE classification (selected by the NCCS)
+=======
+Geocoding lackawanna and luzerne 
+
+
+![lack_luz2county_fig](https://user-images.githubusercontent.com/63907969/185813270-be164a92-7e11-4df2-b123-5ac41b910af3.png)
+>>>>>>> 7772fba433b4c8b4f87e54809970f071646a7fd1
