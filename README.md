@@ -10,10 +10,13 @@ The folder including the data also contains both shape files.
 
 Some variables to note in the data 
 
-Level1 indicates if the nonprofit is a founding or public charity,
-filer indicates if the nonprofit has filed tax documents in the past 2 years. 
-zfiler indicates if they filed zero revenue 
-nteefinal shows the NTEE classification (selected by the NCCS)
+level1 indicates if the nonprofit is a founding or public charity.
+
+filer indicates if the nonprofit has filed tax documents in the past 2 years.
+
+zfiler indicates if they filed zero revenue.
+
+nteefinal shows the NTEE classification (selected by the NCCS).
 
 
 =======
