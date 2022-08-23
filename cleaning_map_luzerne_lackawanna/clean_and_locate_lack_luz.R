@@ -1,5 +1,5 @@
 library(tidyverse)
-library(tidygeocoder)
+
 bmf_20 <- read.csv("/Volumes/TOSHIBA4tb/nccs_data/bmfs/bmf.bm2020.4.csv")
 
 '%!in%' <- function(x,y)!('%in%'(x,y))
